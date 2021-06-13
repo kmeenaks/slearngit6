@@ -1,2 +1,3 @@
-Welcome to Git and GitHub training of Caltech!!
-The instructor name is Abharesh.
+Welcome to Git and GitHub training of Caltech!! 
+My instructor is Abhresh...
+The instructor name is modified to Abhresh
