@@ -1,1 +1,2 @@
 Welcome to Git and GitHub training of Caltech!!
+The instructor name is Abharesh.
